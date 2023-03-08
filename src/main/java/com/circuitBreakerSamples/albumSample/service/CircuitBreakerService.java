@@ -1,4 +1,4 @@
-package com.circuitBreakerSample.albumSample.service;
+package com.circuitBreakerSamples.albumSample.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.circuitbreaker.CircuitBreaker;

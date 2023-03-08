@@ -1,4 +1,4 @@
-package com.circuitBreakerSample.albumSample;
+package com.circuitBreakerSamples.albumSample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

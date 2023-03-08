@@ -1,4 +1,4 @@
-package com.circuitBreakerSample.albumSample.config;
+package com.circuitBreakerSamples.albumSample.config;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreakerConfig;
 import io.github.resilience4j.timelimiter.TimeLimiterConfig;

@@ -1,4 +1,4 @@
-package com.circuitBreakerSample.bookStoreSample.service;
+package com.circuitBreakerSamples.bookStoreSample.service;
 
 import com.sun.org.slf4j.internal.Logger;
 import com.sun.org.slf4j.internal.LoggerFactory;

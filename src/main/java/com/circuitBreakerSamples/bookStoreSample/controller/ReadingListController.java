@@ -1,6 +1,6 @@
-package com.circuitBreakerSample.bookStoreSample.controller;
+package com.circuitBreakerSamples.bookStoreSample.controller;
 
-import com.circuitBreakerSample.bookStoreSample.service.BookService;
+import com.circuitBreakerSamples.bookStoreSample.service.BookService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Mono;

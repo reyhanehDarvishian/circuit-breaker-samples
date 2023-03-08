@@ -1,4 +1,4 @@
-package com.circuitBreakerSample.bookStoreSample.controller;
+package com.circuitBreakerSamples.bookStoreSample.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
